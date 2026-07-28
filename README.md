@@ -83,7 +83,7 @@ AI-based fraud detection system using machine learning algorithms.
 
 Daily DevOps learning journey with notes and practical exercises.
 
-### 🔹 Jira Practice
+### 🔹 jira-project-management-demo
 
 Hands-on practice with Jira boards, issues, workflows, and Agile project management.
 
