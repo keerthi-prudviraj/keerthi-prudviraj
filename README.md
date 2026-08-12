@@ -73,7 +73,7 @@ I am a Computer Science Engineering student passionate about **DevOps, Cloud Com
 - AWS EC2
 - Git
 - GitHub
-- Docker *(Learning)*
+- Docker 
 
 ### Agile & Collaboration
 - Jira Basics
