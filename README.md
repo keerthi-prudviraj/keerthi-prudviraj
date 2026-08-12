@@ -145,7 +145,7 @@ Hands-on practice with Jira Agile workflows including:
 
 - ✅ Master Docker
 - ✅ Learn GitHub Actions
-- ✅ Learn Jenkins
+- ⏳ Learn Jenkins
 - ⏳ Learn Kubernetes
 - ⏳ Learn Terraform
 - ⏳ Learn Ansible
