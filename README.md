@@ -2,22 +2,28 @@
 
 ![](https://komarev.com/ghpvc/?username=keerthi-prudviraj&label=Profile%20Views&color=0e75b6&style=flat)
 
+
 ## 🚀 Aspiring DevOps Engineer
 
-I am a Computer Science Engineering student passionate about **DevOps, Cloud Computing, Linux, and Automation**. I enjoy building practical projects, learning modern DevOps tools, and continuously improving my technical skills.
+👋 I am a Computer Science Engineering student passionate about **DevOps, Cloud Computing, Linux, Automation, and CI/CD**. I enjoy building real-world projects, automating application workflows, working with cloud technologies, and continuously improving my technical skills. 
+
+🛠️ Currently exploring **Docker, Jenkins, AWS, GitHub Actions, GitLab CI/CD, Kubernetes, Terraform, Ansible, and Python for DevOps**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 🌱 Currently learning **Docker** and **Python for DevOps**
-- ☁️ Hands-on experience with **AWS EC2**
+- 🚀 Aspiring DevOps Engineer passionate about **Cloud, Automation, CI/CD, and Infrastructure**
+- 🐳 Hands-on experience with **Docker** and containerized applications
+- 🐍 Currently learning **Python for DevOps**
+- ☁️ Hands-on experience with **AWS EC2** and cloud deployment
 - 🐧 Comfortable working with **Linux (Ubuntu)**
 - 🔄 Familiar with **Git & GitHub** for version control
-- 📋 Experience with **Jira Agile Project Management**
+- 🔧 Hands-on experience with **Jenkins and CI/CD pipelines**
+- 📋 Familiar with **Jira Agile Project Management**
 - 🔗 Hands-on with **Jira + Slack** and **Jira + GitHub** integrations
-- 🎯 Goal: Become a DevOps Engineer
+- 🎯 Goal: Become a skilled **DevOps Engineer**
 - 📍 India
 
 ---
@@ -69,11 +75,12 @@ I am a Computer Science Engineering student passionate about **DevOps, Cloud Com
 - SQL
 
 ### Cloud & DevOps
-- Linux (Ubuntu)
-- AWS EC2
-- Git
-- GitHub
-- Docker 
+- 🐧 Linux (Ubuntu)
+- ☁️ AWS EC2
+- 🔧 Git & GitHub
+- 🐳 Docker
+- 🔄 Jenkins
+- ⚙️ CI/CD Pipelines
 
 ### Agile & Collaboration
 - Jira Basics
@@ -94,37 +101,81 @@ I am a Computer Science Engineering student passionate about **DevOps, Cloud Com
 - Python for DevOps & Automation
 - GitHub Actions
 - Jenkins
+- GitLab CI/CD
 
-### 📌 Next Learning Goals
+-### 📌 Next Learning Goals
 
-- Kubernetes
-- Terraform
-- Ansible
-- Prometheus & Grafana
+- ☸️ Kubernetes
+- 🏗️ Terraform
+- 🤖 Ansible
+- 📊 Prometheus & Grafana
+- 🐍 Python for DevOps
 
 ---
 
-# 📂 Featured Projects
+# 📂 Projects
+
+## 🔹 ChaloCharge – Smart EV Route & Charging Optimization Platform
+
+Building a smart EV mobility platform that helps users plan EV journeys, discover charging stations, and make better charging decisions.
+
+**Tech Used:** React, TypeScript, FastAPI, PostgreSQL, Mapbox, Docker, Jenkins, AWS, GitHub
+
+**Key Features:**
+- 🗺️ EV route planning and interactive Mapbox integration
+- ⚡ Charging station discovery and filtering
+- 🔋 Vehicle and battery-based charging recommendations
+- 📊 Charging insights and analytics dashboard
+- 🐳 Docker-based application deployment
+- 🔄 Jenkins CI/CD pipeline
+- ☁️ AWS EC2 deployment
+
+🔗 [View Project](https://github.com/keerthi-prudviraj/ChaloCharge)
+
+---
 
 ## 🔹 Software Vulnerability Detection using Machine Learning
 
-Developed a machine learning model to identify software vulnerabilities using classification algorithms.
+Developed a machine learning-based application to identify common software vulnerabilities using classification and pattern-detection techniques.
 
-**Tech Used:** Python, Machine Learning
+**Tech Used:** Python, Flask, Machine Learning, MySQL, HTML, CSS, JavaScript
+
+**Focus Areas:**
+- 💥 Buffer Overflow
+- 💉 SQL Injection
+- 🕸️ Cross-Site Scripting (XSS)
+- 💻 Code Injection
 
 ---
 
 ## 🔹 Financial Fraud Detection
 
-Built a machine learning project to detect fraudulent financial transactions.
+Developed a machine learning-based system to identify potentially fraudulent financial transactions using data preprocessing and classification techniques.
 
-**Tech Used:** Python, Machine Learning
+**Tech Used:** Python, Scikit-learn, Machine Learning
+
+**Focus Areas:**
+- 🧹 Data Preprocessing
+- ⚙️ Feature Engineering
+- 🚨 Fraud Classification
+- 📈 Model Evaluation
 
 ---
 
 ## 🔹 90 Days of DevOps
 
-Documenting my DevOps learning journey with notes, commands, and hands-on practice.
+Documenting my hands-on DevOps learning journey through practical projects, commands, troubleshooting notes, and implementation guides.
+
+**Technologies:** Linux, Git, GitHub, Docker, Jenkins & CI/CD, AWS
+
+**Topics Covered:**
+- 🐧 Linux
+- 🔧 Git & GitHub
+- 🐳 Docker
+- 🔄 Jenkins & CI/CD
+- ☁️ AWS
+- 🔐 DevOps best practices
+- 🚀 Application deployment
 
 ---
 
@@ -144,13 +195,16 @@ Hands-on practice with Jira Agile workflows including:
 # 🎯 2026 Goals
 
 - ✅ Master Docker
-- ✅ Learn GitHub Actions
-- ⏳ Learn Jenkins
+- ✅ GitHub Actions
+- ✅ Jenkins
+- ✅ Build CI/CD Pipelines
+- ✅ Deploy Applications on AWS
+- ⏳ GitLab CI/CD 
 - ⏳ Learn Kubernetes
 - ⏳ Learn Terraform
 - ⏳ Learn Ansible
-- ⏳ Build CI/CD Pipelines
-- ⏳ Deploy Applications on AWS
+- ⏳ Python for DevOps 
+- 
 - 🎯 Become a DevOps Engineer
 
 ---
