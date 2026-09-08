@@ -102,10 +102,10 @@
 - GitHub Actions
 - Jenkins
 - GitLab CI/CD
+- Kubernetes
 
 -### 📌 Next Learning Goals
 
-- ☸️ Kubernetes
 - 🏗️ Terraform
 - 🤖 Ansible
 - 📊 Prometheus & Grafana
@@ -173,6 +173,7 @@ Documenting my hands-on DevOps learning journey through practical projects, comm
 - 🔧 Git & GitHub
 - 🐳 Docker
 - 🔄 Jenkins & CI/CD
+- ☸️ Kubernetes
 - ☁️ AWS
 - 🔐 DevOps best practices
 - 🚀 Application deployment
@@ -199,8 +200,8 @@ Hands-on practice with Jira Agile workflows including:
 - ✅ Jenkins
 - ✅ Build CI/CD Pipelines
 - ✅ Deploy Applications on AWS
-- ⏳ GitLab CI/CD 
-- ⏳ Learn Kubernetes
+- ✅ GitLab CI/CD 
+- ✅ Kubernetes
 - ⏳ Learn Terraform
 - ⏳ Learn Ansible
 - ⏳ Python for DevOps 
