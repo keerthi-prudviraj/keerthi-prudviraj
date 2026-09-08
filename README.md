@@ -81,6 +81,7 @@
 - 🐳 Docker
 - 🔄 Jenkins
 - ⚙️ CI/CD Pipelines
+- ☸️ Kubernetes
 
 ### Agile & Collaboration
 - Jira Basics
