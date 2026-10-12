@@ -1,65 +1,77 @@
 # Hi 👋, I'm Prudviraj Keerthi
 
-![](https://komarev.com/ghpvc/?username=keerthi-prudviraj&label=Profile%20Views&color=0e75b6&style=flat)
-
+![Profile Views](https://komarev.com/ghpvc/?username=keerthi-prudviraj&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Aspiring DevOps Engineer
 
-👋 I am a Computer Science Engineering student passionate about **DevOps, Cloud Computing, Linux, Automation, and CI/CD**. I enjoy building real-world projects, automating application workflows, working with cloud technologies, and continuously improving my technical skills. 
+I'm a Computer Science Engineering graduate passionate about **DevOps, Cloud Computing, Infrastructure as Code (IaC), Automation, Monitoring, and CI/CD**. I enjoy building hands-on projects, automating infrastructure, deploying containerized applications, and continuously improving my technical skills.
 
-🛠️ Currently exploring **Docker, Jenkins, AWS, GitHub Actions, GitLab CI/CD, Kubernetes, Terraform, Ansible, and Python for DevOps**.
+My goal is to build reliable, scalable, and automated infrastructure using modern DevOps tools and cloud technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🚀 Aspiring DevOps Engineer passionate about **Cloud, Automation, CI/CD, and Infrastructure**
-- 🐳 Hands-on experience with **Docker** and containerized applications
-- 🐍 Currently learning **Python for DevOps**
-- ☁️ Hands-on experience with **AWS EC2** and cloud deployment
-- 🐧 Comfortable working with **Linux (Ubuntu)**
-- 🔄 Familiar with **Git & GitHub** for version control
-- 🔧 Hands-on experience with **Jenkins and CI/CD pipelines**
-- 📋 Familiar with **Jira Agile Project Management**
-- 🔗 Hands-on with **Jira + Slack** and **Jira + GitHub** integrations
-- 🎯 Goal: Become a skilled **DevOps Engineer**
+- 🎓 B.Tech in Computer Science Engineering
+- 🚀 Aspiring DevOps Engineer focused on Cloud, Automation, and CI/CD
+- ☁️ Hands-on experience with AWS EC2 and cloud deployments
+- 🐳 Experience with Docker and Docker Compose
+- 🔄 Practicing CI/CD pipelines using Jenkins
+- 🏗️ Working with Terraform for Infrastructure as Code
+- ⚙️ Practicing Ansible for configuration management
+- ☸️ Learning Kubernetes and container orchestration
+- 📊 Exploring Prometheus and Grafana for monitoring and visualization
+- 🐧 Comfortable working with Linux (Ubuntu)
+- 🐍 Learning Python and Bash for DevOps automation
+- 🔧 Familiar with Git and GitHub
+- 📋 Familiar with Jira, Agile workflows, and Slack integrations
 - 📍 India
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
-
-## DevOps & Version Control
+## 🔧 DevOps & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
-
-## Cloud
+## ☁️ Cloud Computing
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
----
+## 🏗️ Infrastructure as Code & Automation
 
-## Operating System
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+## 📊 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+## 🐧 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
-## Collaboration & Project Management
+## 🤝 Collaboration & Tools
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -67,147 +79,172 @@
 
 ---
 
-# 💼 Skills
-
-### Programming
-- Python
-- C++
-- SQL
+# 💼 Technical Skills
 
 ### Cloud & DevOps
-- 🐧 Linux (Ubuntu)
-- ☁️ AWS EC2
-- 🔧 Git & GitHub
-- 🐳 Docker
-- 🔄 Jenkins
-- ⚙️ CI/CD Pipelines
-- ☸️ Kubernetes
+- AWS EC2 and cloud deployments
+- Linux system administration fundamentals
+- Git and GitHub version control
+- Docker and Docker Compose
+- Jenkins and CI/CD pipelines
+- Kubernetes fundamentals
+- Terraform infrastructure provisioning
+- Ansible configuration management
+- GitHub Actions and GitLab CI/CD fundamentals
+
+### Monitoring & Observability
+- Prometheus metrics collection
+- Grafana dashboards and visualization
+- Container and infrastructure monitoring
+- Loki and Promtail logging fundamentals
+- OpenTelemetry fundamentals
+
+### Programming & Automation
+- Python fundamentals
+- Bash and shell scripting
+- SQL
+- Automation and troubleshooting
 
 ### Agile & Collaboration
-- Jira Basics
-- Epic, Story & Task Management
-- Agile Board Management
-- Jira + Slack Integration
-- Jira + GitHub Integration
-- Slack
-
-### Tools
-- VS Code
-
----
-
-## 🌱 Currently Learning
-
-- Docker
-- Python for DevOps & Automation
-- GitHub Actions
-- Jenkins
-- GitLab CI/CD
-- Kubernetes
-
--### 📌 Next Learning Goals
-
-- 🏗️ Terraform
-- 🤖 Ansible
-- 📊 Prometheus & Grafana
-- 🐍 Python for DevOps
+- Jira epics, stories, and tasks
+- Agile board management
+- Jira + Slack integration
+- Jira + GitHub integration
 
 ---
 
 # 📂 Projects
 
-## 🔹 ChaloCharge – Smart EV Route & Charging Optimization Platform
+## 1. 🏗️ Terraform for DevOps — Infrastructure as Code
 
-Building a smart EV mobility platform that helps users plan EV journeys, discover charging stations, and make better charging decisions.
+Built hands-on infrastructure automation projects using Terraform to provision and manage AWS resources, explore reusable modules, configure remote state, and automate server configuration.
 
-**Tech Used:** React, TypeScript, FastAPI, PostgreSQL, Mapbox, Docker, Jenkins, AWS, GitHub
+**Technologies:** Terraform, AWS, EC2, VPC, S3, DynamoDB, Ansible, Git, GitHub
 
-**Key Features:**
-- 🗺️ EV route planning and interactive Mapbox integration
-- ⚡ Charging station discovery and filtering
-- 🔋 Vehicle and battery-based charging recommendations
-- 📊 Charging insights and analytics dashboard
-- 🐳 Docker-based application deployment
-- 🔄 Jenkins CI/CD pipeline
-- ☁️ AWS EC2 deployment
+**Key Implementations**
+- Provisioned AWS infrastructure using Terraform.
+- Practiced creating and managing EC2 instances and networking resources.
+- Organized infrastructure code into reusable Terraform modules.
+- Explored remote state storage using Amazon S3 and state locking using DynamoDB.
+- Automated server configuration using Ansible.
+- Practiced automated web server installation and configuration.
+- Explored Amazon EKS provisioning using Terraform.
 
-🔗 [View Project](https://github.com/keerthi-prudviraj/ChaloCharge)
+🔗 **[View Terraform for DevOps](https://github.com/keerthi-prudviraj/Terraform-for-DevOps)**
 
----
+## 2. 📊 DevOps Monitoring & Observability Stack
 
-## 🔹 Software Vulnerability Detection using Machine Learning
+Developed a containerized observability environment to explore infrastructure metrics, container monitoring, visualization, and centralized logging.
 
-Developed a machine learning-based application to identify common software vulnerabilities using classification and pattern-detection techniques.
+**Technologies:** Docker, Docker Compose, Prometheus, Grafana, cAdvisor, Node Exporter, Redis, Loki, Promtail, OpenTelemetry
 
-**Tech Used:** Python, Flask, Machine Learning, MySQL, HTML, CSS, JavaScript
+**Key Implementations**
+- Configured Prometheus for metrics collection.
+- Explored Grafana dashboards for monitoring and visualization.
+- Used Docker Compose to manage monitoring services.
+- Practiced monitoring container resource utilization.
+- Explored cAdvisor and Node Exporter metrics.
+- Practiced centralized logging with Loki and Promtail.
+- Explored OpenTelemetry for observability and telemetry collection.
 
-**Focus Areas:**
-- 💥 Buffer Overflow
-- 💉 SQL Injection
-- 🕸️ Cross-Site Scripting (XSS)
-- 💻 Code Injection
+🔗 **[View Observability Projects](https://github.com/keerthi-prudviraj/observability-for-devops)**
 
----
+## 3. ⚡ ChaloCharge — Smart EV Route & Charging Optimization Platform
 
-## 🔹 Financial Fraud Detection
+Developed an EV mobility platform concept to help users plan electric vehicle journeys, discover charging stations, and make informed charging decisions.
+
+**Technologies:** React, TypeScript, FastAPI, PostgreSQL, Mapbox, Docker, Jenkins, AWS, GitHub
+
+**Key Features**
+- Interactive EV route planning using Mapbox.
+- Charging station discovery and filtering.
+- Vehicle and battery-based charging recommendations.
+- Charging insights and analytics.
+- Docker-based application deployment.
+- Jenkins CI/CD pipeline practice.
+- AWS EC2 deployment.
+
+🔗 **[View ChaloCharge](https://github.com/keerthi-prudviraj/ChaloCharge)**
+
+## 4. 🐳 90 Days of DevOps
+
+Documenting my DevOps learning journey through hands-on exercises, practical commands, troubleshooting notes, and implementation guides.
+
+**Technologies:** Linux, Git, GitHub, Docker, Jenkins, AWS, Kubernetes
+
+**Topics**
+- Linux commands and administration
+- Git and GitHub workflows
+- Docker and containerization
+- Jenkins and CI/CD
+- Kubernetes fundamentals
+- AWS cloud deployment
+- DevOps best practices
+
+🔗 [Explore My GitHub Repositories](https://github.com/keerthi-prudviraj?tab=repositories)
+
+## 5. 🔐 Software Vulnerability Detection Using Machine Learning
+
+Developed a machine learning-based application concept for identifying common software vulnerabilities using classification and pattern-detection techniques.
+
+**Technologies:** Python, Flask, Machine Learning, MySQL, HTML, CSS, JavaScript
+
+**Focus Areas**
+- Buffer overflow detection
+- SQL injection
+- Cross-site scripting (XSS)
+- Code injection
+
+## 6. 💳 Financial Fraud Detection
 
 Developed a machine learning-based system to identify potentially fraudulent financial transactions using data preprocessing and classification techniques.
 
-**Tech Used:** Python, Scikit-learn, Machine Learning
+**Technologies:** Python, Scikit-learn, Machine Learning
 
-**Focus Areas:**
-- 🧹 Data Preprocessing
-- ⚙️ Feature Engineering
-- 🚨 Fraud Classification
-- 📈 Model Evaluation
+**Focus Areas**
+- Data preprocessing
+- Feature engineering
+- Fraud classification
+- Model evaluation
 
----
+## 7. 📋 Jira Project Management Demo
 
-## 🔹 90 Days of DevOps
+Practiced Agile project management workflows and integrations using Jira, Slack, and GitHub.
 
-Documenting my hands-on DevOps learning journey through practical projects, commands, troubleshooting notes, and implementation guides.
-
-**Technologies:** Linux, Git, GitHub, Docker, Jenkins & CI/CD, AWS
-
-**Topics Covered:**
-- 🐧 Linux
-- 🔧 Git & GitHub
-- 🐳 Docker
-- 🔄 Jenkins & CI/CD
-- ☸️ Kubernetes
-- ☁️ AWS
-- 🔐 DevOps best practices
-- 🚀 Application deployment
+**Key Implementations**
+- Epic creation and management
+- Story and task tracking
+- Agile board management
+- Jira + Slack integration
+- Jira + GitHub integration
 
 ---
 
-## 🔹 Jira Project Management Demo
+# 🌱 Currently Learning & Practicing
 
-Hands-on practice with Jira Agile workflows including:
-
-- Epic Creation
-- Story Management
-- Task Management
-- Agile Boards
-- Jira + Slack Integration
-- Jira + GitHub Integration
+- 🏗️ Terraform for Infrastructure as Code
+- ⚙️ Ansible for configuration management
+- 📊 Prometheus and Grafana for monitoring
+- 🐳 Docker and Docker Compose
+- ☸️ Kubernetes and orchestration
+- 🔄 Jenkins, GitHub Actions, and GitLab CI/CD
+- 🐍 Python and Bash for DevOps automation
+- ☁️ AWS cloud infrastructure
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master Docker
-- ✅ GitHub Actions
-- ✅ Jenkins
-- ✅ Build CI/CD Pipelines
-- ✅ Deploy Applications on AWS
-- ✅ GitLab CI/CD 
-- ✅ Kubernetes
-- ⏳ Learn Terraform
-- ⏳ Learn Ansible
-- ⏳ Python for DevOps 
-- 
-- 🎯 Become a DevOps Engineer
+- ✅ Build hands-on Docker projects
+- ✅ Practice Jenkins CI/CD pipelines
+- ✅ Deploy applications on AWS EC2
+- ✅ Build Terraform infrastructure projects
+- ✅ Practice Ansible configuration automation
+- 🔄 Strengthen Kubernetes skills
+- 🔄 Build Prometheus and Grafana monitoring dashboards
+- 🔄 Improve Python and shell scripting
+- 🎯 Build end-to-end DevOps projects
+- 🎯 Secure a DevOps Engineer or DevOps Intern role
 
 ---
 
@@ -225,18 +262,18 @@ Hands-on practice with Jira Agile workflows including:
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
 📧 **Email:** prudvikeerthi73@gmail.com
 
-🐙 **GitHub:** https://github.com/keerthi-prudviraj
+🐙 **GitHub:** [keerthi-prudviraj](https://github.com/keerthi-prudviraj)
 
 ---
 
-# 💡 Quote
+# 💡 My Motto
 
-> **"Keep Learning. Keep Building. Keep Improving."**
+> Keep Learning. Keep Building. Keep Improving.
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile! If you like my work, feel free to explore my repositories and connect with me.**
+⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
