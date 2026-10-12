@@ -161,27 +161,24 @@ Documenting practical DevOps exercises, commands, troubleshooting, deployment wo
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with DevOps engineers, cloud professionals, recruiters, and fellow developers.
-
 <p align="left">
   <a href="https://github.com/keerthi-prudviraj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prudviraj-keerthi-711776257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:prudvikeerthi73@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-📧 **Email:** prudvikeerthi73@gmail.com  
-📍 **Location:** India  
-💼 **Interested in:** DevOps Engineer · DevOps Intern · Cloud Intern
+📧 **Email:** [prudvikeerthi73@gmail.com](mailto:prudvikeerthi73@gmail.com)
 
----
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/prudviraj-keerthi-711776257)
 
-<p align="center">
-  <i>"Automate the repeatable. Monitor the important. Keep learning."</i>
-</p>
+🐙 **GitHub:** [Explore my repositories](https://github.com/keerthi-prudviraj)
 
-<p align="center">
-  ⭐ If you find my projects useful, feel free to explore my repositories!
-</p>
+📍 **Location:** India
+
+🎯 **Open to:** DevOps Engineer | DevOps Intern | Cloud Engineer Intern
